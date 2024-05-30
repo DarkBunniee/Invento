@@ -1,7 +1,5 @@
 # Invento
 
-# Inventory
-
 Inventory is a modern version of the [Microsoft Inventory sample](https://github.com/microsoft/inventorysample), built on WinUI 3 and Clean Architecture principles. This repository aims to demonstrate how to build a contemporary desktop application utilizing the latest technologies and architectural approaches.
 
 ## Table of Contents
